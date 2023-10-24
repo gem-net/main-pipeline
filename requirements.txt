@@ -1,0 +1,9 @@
+fastapi==0.100.1
+uvicorn[standard]==0.23.2
+
+python-dotenv==1.0.0
+urllib3==1.25.7
+DateTime==5.1
+pymongo==4.5.0
+PyPDF2==2.12.1
+pandas==2.1.1
