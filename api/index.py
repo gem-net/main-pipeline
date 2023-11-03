@@ -46,6 +46,8 @@ async def create_upload_files(files: List[UploadFile] = File(...)):
         filename = file.filename
         file_path = os.path.join(UPLOAD_FOLDER, filename)
         
+        print(content)
+        
         with open(file_path, "wb") as buffer:
             buffer.write(content)
         
