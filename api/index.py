@@ -75,6 +75,9 @@ def update_downloads(full_text: List[str]):
         synthetase.extend(extract_synthetase(text, page = page_num))
         compounds.extend(extract_compounds(text, page = page_num))
 
+    print(tRNA)
+    print(synthetase)
+    print(compounds)
     
     if not os.path.exists(OUPUT_FOLDER):
         os.makedirs(OUPUT_FOLDER)
