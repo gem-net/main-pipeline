@@ -22,7 +22,7 @@ OUPUT_FOLDER = 'output'
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "https://vercel.com/jayyeung/CGEM-main-pipeline"],
+    allow_origins=["http://localhost:3000", "https://vercel.com/jayyeung/CGEM-main-pipeline-frontend"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
