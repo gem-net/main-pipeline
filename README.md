@@ -6,7 +6,28 @@
 
 ## Installation
 
-### Backend
+### Running the app locally
+
+1. Navigate to the project directory.
+
+2. Make sure you have [Node.js](https://nodejs.org/en/) installed and Python 3.9 or higher.
+
+3. Install the required npm packages:
+
+    ```bash
+    npm install
+    ```
+
+4. Run the Frontend and Backend servers:
+    ```bash
+    npm run dev
+    ```
+
+## Usage
+
+1. Open your web browser and navigate to `http://localhost:3000/upload` for the frontend.
+
+### Run just Backend
 
 1. Navigate to the project directory.
 
@@ -15,7 +36,7 @@
     npm run fastapi-dev
     ```
 
-### Frontend
+### Run just Frontend
 
 1. Navigate to the project directory.
 2. Install the required npm packages:
@@ -29,11 +50,6 @@
     ```bash
     npm run next-dev
     ```
-
-## Usage
-
-1. Open your web browser and navigate to `http://localhost:3000` for the frontend.
-2. Navigate to `http://localhost:8000/docs` for the FastAPI generated documentation.
 
 ## API Endpoints
 

@@ -31,7 +31,7 @@ app.add_middleware(
 
 @app.get("/api/hello")
 def hello_world():
-    return {"message": "HelloWorld"}
+    return {"message": "Hello World"}
 
 
 @app.post("/uploadfiles/")
