@@ -33,6 +33,12 @@ app.add_middleware(
 def hello_world():
     return {"message": "Hello World"}
 
+@app.get("/doi")
+async def get_doi(doi: str):
+    metadata = get_metadata_from_doi(doi)
+    citation = generate_jacs_citation(metadata)
+    return citation
+
 
 @app.post("/uploadfiles/")
 async def create_upload_files(files: List[UploadFile] = File(...)):

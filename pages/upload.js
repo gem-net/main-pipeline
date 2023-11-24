@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "../app/globals.css";
 
 export default function Upload() {
     const [file, setFile] = useState(null);
@@ -33,17 +34,43 @@ export default function Upload() {
     };
 
     return (
-        <div>
-            <input type="file" onChange={handleFileChange} />
-            <button onClick={handleUpload}>Upload</button>
-            <p></p>
-            <button onClick={handleDownloadTNA}>Download tRNA</button>
-            <button onClick={handleDownloadSynthetase}>
-                Download Synthetase
+        <div className="container mx-auto p-4">
+            <input
+                type="file"
+                onChange={handleFileChange}
+                className="block w-full text-sm text-gray-500
+            file:mr-4 file:py-2 file:px-4
+            file:rounded-full file:border-0
+            file:text-sm file:font-semibold
+            file:bg-violet-50 file:text-violet-700
+            hover:file:bg-violet-100"
+            />
+            <button
+                onClick={handleUpload}
+                className="mt-4 px-4 py-2 bg-blue-500 text-white font-bold rounded hover:bg-blue-700"
+            >
+                Upload
             </button>
-            <button onClick={handleDownloadCompounds}>
-                Download Compounds
-            </button>
+            <div className="mt-4">
+                <button
+                    onClick={handleDownloadTNA}
+                    className="px-4 py-2 bg-green-500 text-white font-bold rounded hover:bg-green-700 mr-2"
+                >
+                    Download tRNA
+                </button>
+                <button
+                    onClick={handleDownloadSynthetase}
+                    className="px-4 py-2 bg-green-500 text-white font-bold rounded hover:bg-green-700 mr-2"
+                >
+                    Download Synthetase
+                </button>
+                <button
+                    onClick={handleDownloadCompounds}
+                    className="px-4 py-2 bg-green-500 text-white font-bold rounded hover:bg-green-700"
+                >
+                    Download Compounds
+                </button>
+            </div>
         </div>
     );
 }
