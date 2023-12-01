@@ -1,0 +1,40 @@
+Unnamed: 0,IUPAC,SMILES
+0,4-aminobutyric acid,NCCCC(=O)O
+1,(R/S)-4-amino-3-hydroxy butyric acid,NCC(CC(=O)O)O
+2,Cyanomethyl isonicotinate,C(#N)COC(C1=CC=NC=C1)=O
+3,Cyanomethyl 2-fluoroisonicotinate,C(#N)COC(C1=CC(=NC=C1)F)=O
+4,Cyanomethyl 2-oxo-2H-chromene-3-carboxylate,C(#N)COC(=O)C=1C(OC2=CC=CC=C2C1)=O
+5,Cyanomethyl 1H-pyrrole-2-carboxylate,C(#N)COC(=O)C=1NC=CC1
+6,Cyanomethyl thiophene-2-carboxylate,C(#N)COC(=O)C=1SC=CC1
+7,2-(4-((Pentanoylthio)methyl)benzamido)ethan-1-aminium chloride,[Cl-].C(CCCC)(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
+8,"2-(4-((Pent-4-enoylthio)methyl)benzamido)ethan-1-
+aminium chloride",[Cl-].C(CCC=C)(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
+9,"2-(4-(((3-Cyanopropanoyl)thio)methyl)benzamido)ethan-1-
+aminium chloride",[Cl-].C(#N)CCC(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
+10,"2-(4-(((4-Methoxy-4-oxobutanoyl)thio)methyl)benzamido)
+ethan-1-aminium chloride",[Cl-].COC(CCC(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1)=O
+11,"2-(4-(((3-Nitropropanoyl)thio)methyl)benzamido)ethan-1-
+aminium chloride",[Cl-].[N+](=O)([O-])CCC(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
+12,"2-(4-(((Cyclohexanecarbonyl)thio)methyl)benzamido)ethan-
+1-aminium chloride",[Cl-].C1(CCCCC1)C(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1
+13,"2-(4-(((2-Bromo-2-methylpropanoyl)thio)methyl)benzamido)
+ethan-1-aminium chloride",[Cl-].BrC(C(=O)SCC1=CC=C(C(=O)NCC[NH3+])C=C1)(C)C
+14,"(S)-1-((3,5-dinitrobenzyl)oxy)-1-oxobut-3-en-2-aminium",[N+](=O)([O-])C=1C=C(COC(C(C=C)[NH3+])=O)C=C(C1)[N+](=O)[O-]
+15,"3,5-dinitrobenzyl 3-aminopropanoate",[N+](=O)([O-])C=1C=C(COC(CCN)=O)C=C(C1)[N+](=O)[O-]
+16,"3,5-dinitrobenzyl-amino-4-butanoate",[N+](=O)([O-])C=1C=C(COC(CCCN)=O)C=C(C1)[N+](=O)[O-]
+17,"3,5-dinitrobenzyl 4-(methylamino)butanoate",[N+](=O)([O-])C=1C=C(COC(CCCNC)=O)C=C(C1)[N+](=O)[O-]
+18,"rac-cis-3,5-dinitrobenzyl-2-aminocyclopropane-1- carboxylate",[N+](=O)([O-])C=1C=C(COC(=O)[C@H]2[C@H](C2)N)C=C(C1)[N+](=O)[O-]
+19,"rac-trans-3,5-dinitrobenzyl-2-aminocyclopropane-1- carboxylate",[N+](=O)([O-])C=1C=C(COC(=O)[C@H]2[C@@H](C2)N)C=C(C1)[N+](=O)[O-]
+20,"3,5-dinitrobenzyl 5-aminopentanoate",[N+](=O)([O-])C=1C=C(COC(CCCCN)=O)C=C(C1)[N+](=O)[O-]
+21,"3,5-dinitrobenzyl 6-aminohexanoate",[N+](=O)([O-])C=1C=C(COC(CCCCCN)=O)C=C(C1)[N+](=O)[O-]
+22,"3,5-dinitrobenzyl 2-(piperidin-4-yl)acetate",[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])C2CCNCC2)C=C(C1)[N+](=O)[O-]
+23,"3,5-dinitrobenzyl 2-(piperazin-1-yl)acetate",[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])N2CCNCC2)C=C(C1)[N+](=O)[O-]
+24,"3,5-dinitrobenzyl 3-aminopropanoate",[N+](=O)([O-])C=1C=C(COC(CCN)=O)C=C(C1)[N+](=O)[O-]
+25,"3,5-dinitrobenzyl-amino-4-butanoate",[N+](=O)([O-])C=1C=C(COC(CCCN)=O)C=C(C1)[N+](=O)[O-]
+26,"3,5-dinitrobenzyl 4-(methylamino)butanoate",[N+](=O)([O-])C=1C=C(COC(CCCNC)=O)C=C(C1)[N+](=O)[O-]
+27,"rac-cis-3,5-dinitrobenzyl-2-aminocyclopropane-1- carboxylate",[N+](=O)([O-])C=1C=C(COC(=O)[C@H]2[C@H](C2)N)C=C(C1)[N+](=O)[O-]
+28,"rac-trans-3,5-dinitrobenzyl-2-aminocyclopropane-1- carboxylate",[N+](=O)([O-])C=1C=C(COC(=O)[C@H]2[C@@H](C2)N)C=C(C1)[N+](=O)[O-]
+29,"3,5-dinitrobenzyl 5-aminopentanoate",[N+](=O)([O-])C=1C=C(COC(CCCCN)=O)C=C(C1)[N+](=O)[O-]
+30,"3,5-dinitrobenzyl 6-aminohexanoate",[N+](=O)([O-])C=1C=C(COC(CCCCCN)=O)C=C(C1)[N+](=O)[O-]
+31,"3,5-dinitrobenzyl 2-(piperidin-4-yl)acetate",[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])C2CCNCC2)C=C(C1)[N+](=O)[O-]
+32,"3,5-dinitrobenzyl 2-(piperazin-1-yl)acetate",[N+](=O)([O-])C=1C=C(CC(C(=O)[O-])N2CCNCC2)C=C(C1)[N+](=O)[O-]

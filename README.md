@@ -25,9 +25,7 @@
 
 ## Usage
 
-1. Open your web browser and navigate to `http://localhost:3000/upload` to upload the paper.
-
-2. Open your web browser and navigate to `http://localhost:3000/doi` to get the citation.
+1. Open your web browser and navigate to `http://localhost:3000` for main frontend.
 
 ### Run just Backend
 
